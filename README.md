@@ -41,6 +41,9 @@ Black wire to ground pin of arduino uno
 
 Red wire to pin 13 of arduino uno
 
+** UPLOAD THE CODE TO ARDUINO BOARD (irrigation.ino) **
+see the ouput on COM port..
+
 --- READINGS OUTPUT ---
 
 1.  MOISTURE LEVEL HIGH
@@ -49,3 +52,13 @@ Red wire to pin 13 of arduino uno
 2. MOISTURE LEVEL LOW
 <img width="500" alt="Screenshot 2021-07-27 at 10 13 33 PM" src="https://user-images.githubusercontent.com/43498926/127194442-5ff520e7-3154-42a3-acea-035668292291.png">
 
+
+ANDROID APP 
+This app is OPTIONAL just like the bluetooth module as we can see the values on com port
+
+app enables you to see the readings at your own pace.
+
+install the apk (ANDROID.APK)
+
+
+AND YOU ARE GOOD TO GO.......
