@@ -3,7 +3,7 @@ The project describes smart irrigation system using the concepts of Internet of 
 
 ---- PROTOTYPE ----
 
-<img width="500" height="400" alt="jkl" src="https://user-images.githubusercontent.com/43498926/127189824-40bd9cd5-2a8f-45a4-a38e-badf1ab38743.jpeg">
+<img width="400" height="400" alt="jkl" src="https://user-images.githubusercontent.com/43498926/127189824-40bd9cd5-2a8f-45a4-a38e-badf1ab38743.jpeg">
 
 ---- WHAT ?? ----
 
